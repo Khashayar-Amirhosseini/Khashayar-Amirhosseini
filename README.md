@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khashayar-Amirhosseini
 - 👀 I’m interested in web application development
 - 🌱 I’m currently learning Java and react
-- 💞️ I’m looking to collaborate on web applications as full-stak developer
+- 💞️ I’m looking to collaborate on web applications as full-stack developer
 - 📫 How to reach me by my linlkedin account(@Khashayar-amirhosseini), Email(kh.amirhosseini@gmail.com) and telegram(@khashayar_amirhosseini)
 
 <!---
